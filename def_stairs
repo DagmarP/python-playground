@@ -1,0 +1,8 @@
+from turtle import forward, left, shape, exitonclick
+
+shape('turtle')
+
+
+def paint_upstars"
+    forward (lenght)
+    left (high_of_one_element)
